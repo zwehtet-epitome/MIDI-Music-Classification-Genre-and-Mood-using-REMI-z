@@ -1,2 +1,7 @@
-*.ipynb
 *.mid
+*.csv
+
+# *.ipynb
+# /notebooks/
+
+/checkpoints/
